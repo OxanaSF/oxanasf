@@ -6,7 +6,7 @@
 
 <h3 align="center">A am a passionate REACT developer</h3>
 
-<brЮ
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oxanasf&label=Profile%20views&color=0e75b6&style=flat" alt="oxanasf" /> </p>
 
