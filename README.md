@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oxanasf&label=Profile%20views&color=0e75b6&style=flat" alt="oxanasf" /> </p>
 
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Golang**
 
 - 👨‍💻 All of my projects are available at [oxana-howard.com](oxana-howard.com)
 
