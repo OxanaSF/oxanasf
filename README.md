@@ -4,7 +4,7 @@
 <br>
 
 
-<h3 align="center">A am a passionate REACT developer</h3>
+<h3 align="center">A am a passionate Software Engineer</h3>
 
 <br>
 
